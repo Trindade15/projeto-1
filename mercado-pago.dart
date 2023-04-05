@@ -1,2 +1,3 @@
 const m = 'marcado pago';
-const p = 'devedor';
+const d = 'devedor';
+const p = 'pagamento';
