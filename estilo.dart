@@ -1,1 +1,1 @@
-var body = 'background: #fff';
+var body = 'background: #000';
